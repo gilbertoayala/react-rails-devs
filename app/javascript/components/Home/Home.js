@@ -17,7 +17,7 @@ class Home extends Component {
           id: 2,
           title: 'Adding React to an Existing Rails App',
           description: 'lorem ipsum',
-          active: false
+          active: true
         },
         {
           id: 3,
